@@ -1,0 +1,32 @@
+{
+    "title": "Lightning Talks",
+    "name": "lightning-talks",
+    "version": "0.0.1",
+    "description": "5–10 minute actionable presentations on interesting topics",
+    "keywords": [
+        "lightning talks",
+        "information",
+        "how to"
+    ],
+    "homepage": "http://sidhantgandhi.com/lightning-talks-web",
+    "bugs": {
+        "url": "https://github.com/sdgandhi/lightning-talks-web/issues",
+        "email": "sidhant.gandhi@gmail.com"
+    },
+    "author": "Sidhant Gandhi",
+    "contributors": [
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sdgandhi/lightning-talks-web.git"
+    },
+    "dependencies": {
+        "bootstrap": "^4.0.0-alpha.6",
+        "jquery": "^3.2.1",
+        "tether": "^1.4.0"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.18.8",
+        "gulp": "^3.9.1"
+    }
+}
