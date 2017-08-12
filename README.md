@@ -14,6 +14,7 @@
 
 ## To do
 
-- [ ] Create Google Slides template
-- [ ] Add Google Slides template to homepage
+- [x] Replace with React app
+- [x] Create Google Slides template
+- [x] Add Google Slides template to homepage
 - [ ] Replace Google Forms iframe with just a text field and submit button (with captcha)
