@@ -5,7 +5,7 @@ function deploy {
     find docs -delete
     mv build/ docs/
     git add .
-    git commit -m --allow-empty "Deploy on ${date}"
+    git commit --allow-empty -m "Deploy on ${date}"
     git push origin master
 }
 
